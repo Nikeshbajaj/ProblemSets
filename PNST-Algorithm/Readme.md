@@ -11,5 +11,5 @@ The assumptions are:
 * N is a positive integer (Obviously);
 * String S consists only of the following characters: "(", "{", "[", "]", "}" and/or ")".
 
-For example, given S = "{[()()]}", the function should return 1.For S = "([)()]", the function should
-return 0, as explained above.
+For example, given S = "{[()()]}", the function should return 1 (True). For S = "([)()]", the function should
+return 0 (False), as explained above.
