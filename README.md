@@ -10,8 +10,8 @@ In this reposatory, I will try to share the solutions of different problem sets 
 
 
 ## Algorithms
-* ### [Properly Nested String Test](https://nbviewer.jupyter.org/github/nikeshbajaj/ProblemSets/blob/master/PNST Algorithm/Solution_to PNS.ipynb)
-  * #### [Algorithm](https://github.com/Nikeshbajaj/ProblemSets/blob/master/PNST%20Algorithm/PNST_Algorithm.py)
+* ### [Properly Nested String Test](https://nbviewer.jupyter.org/github/nikeshbajaj/ProblemSets/blob/master/PNST_Algorithm/Solution_to_PNS.ipynb)
+  * #### [Algorithm](https://github.com/Nikeshbajaj/ProblemSets/blob/master/PNST_Algorithm/PNST_Algorithm.py)
  
 * ### 
 
