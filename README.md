@@ -3,7 +3,7 @@ In this reposatory, I will try to share the solutions of different problem sets 
 
 ## ML Problems
 * ### Recommonder Systems: MovieLense Data
-  * #### [Jupyter-Notebook]https://nbviewer.jupyter.org/github/nikeshbajaj/ProblemSets/blob/master/MovieLense/MovieLense-LatestSmallData.ipynb)
+  * #### [Jupyter-Notebook](https://nbviewer.jupyter.org/github/nikeshbajaj/ProblemSets/blob/master/MovieLense/MovieLense-LatestSmallData.ipynb)
   * #### [Reposatory](https://github.com/Nikeshbajaj/ProblemSets/tree/master/MovieLense)
 * ### [Recommonder Systems: MovieLense Data](https://nbviewer.jupyter.org/github/nikeshbajaj/ProblemSets/blob/master/MovieLense/MovieLense-LatestSmallData.ipynb)
 *
