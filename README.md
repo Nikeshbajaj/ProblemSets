@@ -9,6 +9,7 @@ In this reposatory, I will try to share the solutions of different problem sets 
 
 
 ## Algorithms
+* ### [Linear Feedback Shift Register](https://pypi.org/project/pylfsr/)
 * ### [Properly Nested String Test](https://nbviewer.jupyter.org/github/nikeshbajaj/ProblemSets/blob/master/PNST-Algorithm/Solution_to_PNS.ipynb)  - #### [Algorithm](https://github.com/Nikeshbajaj/ProblemSets/blob/master/PNST-Algorithm/PNST_Algorithm.py)
  
 * ### 
