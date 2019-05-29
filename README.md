@@ -4,7 +4,7 @@ In this reposatory, I will try to share the solutions of different problem sets 
 ## ML Problems
 * ### [Recommonder Systems: MovieLense Data - Jupyter-Notebook](https://nbviewer.jupyter.org/github/nikeshbajaj/ProblemSets/blob/master/MovieLense/MovieLense-LatestSmallData.ipynb)
   * #### [Reposatory](https://github.com/Nikeshbajaj/ProblemSets/tree/master/MovieLense)
-* 
+* ### [Recurrence Neural Network: For variable input length - IMDB Dataset](https://nbviewer.jupyter.org/github/nikeshbajaj/DeepLearning_TensorflowKeras/blob/master/RNN_Variable_Input_Length.ipynb)
 *
 *
 
